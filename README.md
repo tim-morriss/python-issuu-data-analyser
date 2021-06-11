@@ -38,3 +38,4 @@ The GUI can be called by calling the main.py file without arguments:
 python main.py
 ```
 The GUI has the exact same functionality as the CLI:
+[](https://github.com/tm224/python-issuu-data-analyser/blob/master/Picture1.png)
