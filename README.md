@@ -1,0 +1,1 @@
+python-issuu-data-analyser
